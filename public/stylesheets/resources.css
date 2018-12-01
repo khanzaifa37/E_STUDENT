@@ -1,0 +1,111 @@
+body
+{
+    text-align: center;
+    background: rgb();
+   /* background-size: cover;
+    background-position: center; */
+}
+
+body,
+html
+{
+    width: 100%;
+    height: 100%;
+    font-size: 20px;
+    font-family: "Lato";
+    color: black;
+}
+
+h1
+{
+    color: #100000;
+	font-weight: 700;
+	font-size: 5em;
+}
+
+h3
+{
+    color: black;
+    font-size: 2em;
+    font-weight: 600;
+}
+
+/*hr
+{
+    color:black;
+    width: 600px;
+    border-top: 3px solid #000000;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}*/
+.col-lg-4 ,.col-lg-6
+{
+    height:auto;
+    text-align: center;
+    font-weight: 600;
+    font-size: 1em;
+}
+img
+{
+    border: 3px solid black;
+    border-radius: 6px;
+}
+.navbar-nav>li>a
+{
+    color: black;
+}
+
+.container
+{
+    padding-top: 75px;
+    align-content: space-between;
+}
+
+body{
+  background-image: url();
+  background-size: cover;
+	font-family: Lato;
+}
+
+.app{
+  height: 200px;
+}
+
+/*#book{
+  height: 120px;
+}
+
+#journal{
+  height: 120px;
+}
+
+#notes{
+  height: 120px;
+}
+
+#test{
+  height: 120px;
+}
+
+#photo{
+  height:120px;
+}*/
+.thumbnail img {
+  width: 300px;
+  height: 200px;
+}
+
+#notes img{
+  height: 200px;
+}
+
+#book img{
+  height:200px;
+}
+
+#test img{
+  height:200px;
+}
+
+#photo img{
+  height:200px;
+}
